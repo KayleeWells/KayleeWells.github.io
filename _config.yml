@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Kaylee K. Wells"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Kaylee K. Wells"
 description              : &description "Environmental economist with research interests in nonmarket valuation, environmental justice, and big data."
@@ -21,7 +21,7 @@ repository               : "KayleeWells/KayleeWells.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "292tmc.JPEG"
+  avatar           : "292tmc.JPG"
   name             : "Kaylee K. Wells"
   pronouns         : "She/Her" 
   bio              : "PhD candidate in Agricultural and Applied Economics (expected May 2025)"
