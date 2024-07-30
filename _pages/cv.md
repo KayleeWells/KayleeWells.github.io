@@ -9,11 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
+Click here (include link) for my full CV.
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D Agricultural and Applied Economics, University of Ilinois at Urbana-Champaign, 2025 (expected)
+* M.S. Agricultural Economics, Mississippi State University, 2019
+* B.S. Environmental Economics and Management, Mississippi State University, , 2017
 
 Work experience
 ======
