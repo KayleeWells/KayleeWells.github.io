@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Kaylee K. Wells - Environmental Economist"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
