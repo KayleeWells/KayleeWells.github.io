@@ -15,9 +15,9 @@ Education
 ======
 * Ph.D Agricultural and Applied Economics, University of Ilinois at Urbana-Champaign, 2025 (expected)
 * M.S. Agricultural Economics, Mississippi State University, 2019
-* B.S. Environmental Economics and Management, Mississippi State University, , 2017
+* B.S. Environmental Economics and Management, Mississippi State University, Summa Cum Laude, 2017
 
-Work experience
+Academic and Research Experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * Github University
