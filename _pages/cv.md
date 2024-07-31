@@ -39,6 +39,12 @@ Academic Publications & Work in Progress
   <ul>{% for post in site.research reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Published Datasets
+======
+  <ul>{% for post in site.teaching reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
   
 Talks
 ======
@@ -51,5 +57,6 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+
 
