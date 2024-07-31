@@ -7,5 +7,5 @@ This is joint work with undergraduates Carlos Martinez and Gisselle Pena.'
 date: 2024-02-08
 venue: 'Illinois Data Bank'
 dataurl: 'https://doi.org/10.13012/B2IDB-0421892_V1'
-citation: Martinez, C., G. Pena, and K. K. Wells. (2024). &quot;'Prairie Directory of North America' (2013) Entries for the Tallgrass, Mixed Grass, and Shortgrass Prairie Regions of the United States.&quot; Illinois Data Bank.
+citation: "Martinez, C., G. Pena, and K. K. Wells. (2024). 'Prairie Directory of North America' (2013) Entries for the Tallgrass, Mixed Grass, and Shortgrass Prairie Regions of the United States. Illinois Data Bank. doi: 10.13012/B2IDB-0421892_V1"
 ---
