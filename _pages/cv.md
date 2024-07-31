@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Click <a href="/files/CV_7_24.pdf" target="_blank">here</a> for my full CV.
+Click <a href="/files/CV_7_2024.pdf" target="_blank">here</a> for my full CV.
 
 Education
 ======
