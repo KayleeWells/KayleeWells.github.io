@@ -12,17 +12,17 @@ author_profile: true
 {% include base_path %}
 
 Peer-Reviewed Publications
-====
+---
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
 Work in Progress
-====
+---
 
 
 Published Datasets
-=====
+---
 {% for post in site.datasets reversed %}
   {% include archive-single.html %}
 {% endfor %}
