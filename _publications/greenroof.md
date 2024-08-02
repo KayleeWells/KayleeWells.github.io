@@ -2,7 +2,6 @@
 title: "Does presentation matter? An analysis of images and text in a choice experiment of green roofs"
 collection: publications
 permalink: /publication/greenroof
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2023-03-29
 venue: 'Q Open'
 paperurl: 'https://doi.org/10.1093/qopen/qoad010'
