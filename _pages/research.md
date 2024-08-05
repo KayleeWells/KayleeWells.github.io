@@ -19,7 +19,7 @@ Peer-Reviewed Publications
 
 Work in Progress
 ---
-{% for post in site.workinprogress reversed %} 
+{% for post in site.wip reversed %} 
   {% include archive-single.html %} 
 {% endfor %}
 
