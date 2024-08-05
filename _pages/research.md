@@ -19,7 +19,9 @@ Peer-Reviewed Publications
 
 Work in Progress
 ---
-
+{% for post in site.workinprogress reversed %} 
+  {% include archive-single.html %} 
+{% endfor %}
 
 Published Datasets
 ---
