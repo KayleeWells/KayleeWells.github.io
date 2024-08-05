@@ -202,13 +202,13 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
   datasets:
+    output: true
+    permalink: /:collection/:path/
+  wip:
     output: true
     permalink: /:collection/:path/
 
@@ -273,6 +273,15 @@ defaults:
   - scope:
       path: ""
       type: datasets
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _wip AKA Work in Progress
+  - scope:
+      path: ""
+      type: wip
     values:
       layout: single
       author_profile: true
