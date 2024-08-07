@@ -37,6 +37,9 @@
 
         {% if post.collection == 'teaching' %}
           <p> {{ post.type }}, <i>{{ post.venue }}</i><br>{{post.terms}}<br>Supervisor: {{post.supervisor}}</p>
+            {% if post.startdate %}
+            <p> {{ post.startdate | default: "1900-01-01" | date: "%B %d, %Y" }} - {{ post.enddate | default: "1900-01-01" | date: "%B %d, %Y" }}</p>
+            {% endif %}
         {% elsif post.collection == 'publications' %}
             {% if post.coauthors %}
              <p> with {{post.coauthors}}</p>
