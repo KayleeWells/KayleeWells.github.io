@@ -43,9 +43,9 @@
             {% endif %}
         {% elsif post.collection == 'publications' %}
             {% if post.coauthors %}
-             <p> with {{post.coauthors}}</p>
+             <br> with {{post.coauthors}}</br>
             {% endif %}
-          <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+          <br>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </br>
         {% elsif post.collection == 'wip' %}
             {% if post.coauthors %}
              <p> with {{post.coauthors}}</p>
