@@ -15,5 +15,5 @@ I am an environmental economist and PhD candidate in [Agricultural and Applied E
 
 Research Interests
 =========
-**Primary:** Environmental and Natural Resource Economics
-**Secondary:** Non-Market Valuation, Big Data, Causal Inference, and Environmental Justice
+**Primary:** Environmental and Natural Resource Economics 
+<br>**Secondary:** Non-Market Valuation, Big Data, Causal Inference, and Environmental Justice
