@@ -69,9 +69,9 @@
     {% endif %}
    
     {% if post.excerpt and site.read_more != 'enabled' %}
-    <br><class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}
+    <br>{{ post.excerpt | markdownify }}
     {% elsif post.excerpt and site.read_more == 'enabled' %}
-    <br><class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong>
+    <br>{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong>
     {% endif %}
 
     {% if post.citation %}
