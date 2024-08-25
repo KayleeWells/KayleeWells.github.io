@@ -9,9 +9,9 @@ redirect_from:
 
 ![image](/images/292tmc.JPG)
 
-About Me
+About
 ========
-I am an environmental economist and PhD candidate in [Agricultural and Applied Economics at the University of Illinois at Urbana-Champaign](https://www.ace.illinois.edu/). The guiding principle of my research is to provide decision-makers with better information so that they can make better decisions about how they manage natural resources. For better or worse, many decisions on the management of natural resources are made in monetary terms using a cost-benefit framework. To provide better information for this purpose, I use innovative methods and datasets to improve the valuation of natural resources and understanding of the drivers of that value. My current research estimates the nonmarket value of grassland recreation and restoration in the United States. 
+I am an environmental economist and PhD candidate in [Agricultural and Applied Economics at the University of Illinois at Urbana-Champaign](https://www.ace.illinois.edu/). I apply my skills in non-market valuation, big data, and causal inference to questions that provide decision-makers with better information so that they can make better decisions about how they manage natural resources. I’m interested in using innovative methods and datasets to improve decision making for a wide range of environments and resource uses; however, the research in my dissertation focuses on estimating the value of grassland recreation and restoration in the United States.
 
 Research Interests
 =========
