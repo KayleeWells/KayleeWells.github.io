@@ -17,6 +17,12 @@ Peer-Reviewed Publications
   {% include archive-single.html %}
 {% endfor %}
 
+Working Papers
+---
+{% for post in site.working_papers reversed %} 
+  {% include archive-single.html %} 
+{% endfor %}
+
 Work in Progress
 ---
 {% for post in site.wip reversed %} 
