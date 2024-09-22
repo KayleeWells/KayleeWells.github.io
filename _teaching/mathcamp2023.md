@@ -9,6 +9,6 @@ supervisor: 'Bill Ridley'
 startdate: 2023-08-07
 enddate: 2023-08-11
 ---
-#### Responsibilities
+## Responsibilities
 * Plan and teach a week-long (16-hour) math review for incoming master's students on topics including univariate calculus, multivariate calculus, matrix algebra, optimization, and statistics
   
