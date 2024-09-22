@@ -211,6 +211,9 @@ collections:
   wip:
     output: true
     permalink: /:collection/:path/
+  working_papers:
+    output: true
+    permalink: /:collection/:path/
 
 
 
@@ -282,6 +285,15 @@ defaults:
   - scope:
       path: ""
       type: wip
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+    # _working_papers
+  - scope:
+      path: ""
+      type: working_papers
     values:
       layout: single
       author_profile: true
