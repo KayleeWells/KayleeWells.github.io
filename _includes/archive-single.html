@@ -26,9 +26,9 @@
       </div>
     {% endif %}
 
-    <h3 class="archive__item-title" itemprop="headline">
-        <p><span>{{post.title}}</span></p>
-    </h3>
+    <h2 class="archive__item-title" itemprop="headline">
+        <span>{{post.title}}</span>
+    </h2>
     
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
@@ -43,16 +43,16 @@
             {% endif %}
         {% elsif post.collection == 'publications' %}
             {% if post.coauthors %}
-             <br> with {{post.coauthors}}
+            with {{post.coauthors}}
             {% endif %}
-          <br>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} 
+            Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} 
         {% elsif post.collection == 'wip' %}
             {% if post.coauthors %}
-             <br> with {{post.coauthors}}
+             with {{post.coauthors}}
             {% endif %}
         {% elsif post.collection == 'datasets' %}
             {% if post.coauthors %}
-             <br> with {{post.coauthors}}
+             with {{post.coauthors}}
             {% endif %}
           <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
           <br><a href=" {{ post.dataurl }} ">Download Dataset</a>
@@ -63,7 +63,7 @@
     {% if post.paperurl and post.slidesurl %}
       <a href="{{ post.paperurl }}">Download Paper</a> | <a href="{{ post.slidesurl }}">Download Slides</a></p>
     {% elsif post.paperurl %}
-      <br><a href=" {{ post.paperurl }} ">Download Paper</a>
+      <a href=" {{ post.paperurl }} ">Download Paper</a>
     {% elsif post.slidesurl %}
       <p>Download <a href="{{ post.slidesurl }}">Download Slides</a></p></p>
     {% endif %}
