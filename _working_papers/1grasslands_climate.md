@@ -1,7 +1,24 @@
 ---
-title: "U.S. grassland recreation under climate change: Evidence from big data and weather (Job Market Paper)" 
+title: "U.S. grassland recreation under climate change: Evidence from big visitation data and weather (Job Market Paper)" 
 collection: wip
 permalink: /jmp/
-excerpt: 'Grasslands offer many important ecosystem services including recreational opportunities, but grassland recreation may be particularly sensitive to the effects of extreme heat from climate change. What impact will climate change have on grassland recreation and the well-being of the people in the U.S. heartland who uses these sites? I use mobility data to estimate a structural model of the causal relationship between short-run weather shocks and demand for recreation at 16 nationally notable grasslands. The mobility data are estimates of the number of day trips from households in nearby U.S. census block groups to each grassland for the months January 2019-April 2022. The structural model is a repeated discrete choice random utility maximization model. I specify utility for a visit to each grassland in each month as a function of average daily temperature, daily precipitation, average daily wind speed, and daily snowfall. Using grassland, month-of-year, and hunting season fixed effects, I identify the relationship between short-run deviations from typical weather and demand for grassland recreation. Willingness to pay (WTP) per household for a grassland day trip is about $54 on average. I find that an additional day of extremely hot temperatures in a month would decrease average WTP for a grassland visit by about $0.60 on average, which is comparable to estimates for coastal fishing. Snowfall is also a significant determinant of grassland recreation demand. Responses to temperature and snowfall are heterogeneous across climates. Grassland recreators in warmer climates are more responsive to temperature in general than recreators in colder climates. They also respond positively to additional days of snowfall in contrast to recreators in colder climates.'
+excerpt: 'Grasslands offer a variety of ecosystem services including recreational opportunities.
+Unlike forests and coastal beaches, grasslands do not offer natural opportunities for
+recreators to adapt to extremely warm temperatures, potentially making grassland
+recreation sensitive to climate change. I use mobility data to estimate a causal model
+of the relationship between short-run weather shocks and demand for recreation at 16
+nationally notable grasslands between January 2019 and April 2022. I use a repeated
+discrete choice random utility maximization model and specify visit utility as a function
+of a set of average temperature, precipitation, average wind speed, and snowfall
+bins. I identify the causal relationship using grassland, month-of-year, and hunting
+season fixed effects. Willingness to pay (WTP) per household for a grassland day visit
+is about $53.60 on average - nearly twice the WTP for a coastal fishing trip in the
+Eastern U.S. I find that grassland recreators are averse to visiting during months with
+more extreme average temperature days, but having more days with average temperatures
+slightly above extreme cold has no effect on demand. Snowfall is also a significant
+demand determiner. Responses to temperature and snowfall are heterogeneous across
+historical climate regions. Projections for 2081 - 2100 suggest grassland recreators are
+likely to experience average annual welfare gains from climate change of up to $1.3
+million from increased visit quality rather than quantity.'
 paperurl: /files/Wells_JMP.pdf
 ---
