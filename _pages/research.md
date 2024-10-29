@@ -18,6 +18,7 @@ Peer-Reviewed Publications
 {% endfor %}
 
 Working Papers
+---
 {% for post in site.working_papers reversed %} 
   {% include archive-single.html %} 
 {% endfor %}
