@@ -45,7 +45,6 @@
             {% if post.coauthors %}
             with {{post.coauthors}}
             {% endif %}
-            <br>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} 
         {% elsif post.collection == 'wip' %}
             {% if post.coauthors %}
              <br>with {{post.coauthors}}
